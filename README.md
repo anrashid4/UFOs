@@ -4,7 +4,7 @@ During this module challenge, we created a webpage in which we generated a signi
 
 # Possible Improvements 
 
-Some possible improvements to this project could be adding more evidence to support the the UFO sighting such as images or anecdotes from those who claim they saw the UFO. 
+Some possible improvements to this project could be adding more evidence to support the UFO sighting such as images or anecdotes from those who claim they saw the UFO. 
 
 
 
